@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.retail.retailinstantapp",
+    "sha256_cert_fingerprints":
+    ["C3:DC:EB:CD:A3:F4:24:CD:22:87:B6:EE:3A:79:B7:95:B2:92:22:1C:AD:8F:E7:23:49:18:62:F8:E8:EC:69:2A"]
+  }
+}]
